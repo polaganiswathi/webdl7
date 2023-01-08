@@ -1,3 +1,4 @@
+
 {
   "name": "todo-manager",
   "version": "1.0.0",
@@ -33,9 +34,3 @@
     "supertest": "^6.2.4"
   }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
